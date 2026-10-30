@@ -1,6 +1,9 @@
+
+<img src="rfid.jpg"/>
+
 # 🚀 RFID Smart Macro: "Siri for Windows"
 
-Proyek ini adalah sistem otomatisasi laptop berbasis **ESP32** dan **RFID** yang menyamar sebagai *Keyboard Bluetooth*. Dengan menempelkan kartu RFID, kamu bisa membuka *lock screen* Windows dan menjalankan deretan aplikasi secara otomatis (Macro).
+>Proyek ini adalah sistem otomatisasi laptop berbasis **ESP32** dan **RFID** yang menyamar sebagai *Keyboard Bluetooth*. Dengan menempelkan kartu RFID, kamu bisa membuka *lock screen* Windows dan menjalankan deretan aplikasi secara otomatis (Macro).
 
 Proyek ini dibuat sebagai eksperimen seru untuk mengubah e-KTP dan kartu akses menjadi "kunci pintar" laptop.
 
